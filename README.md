@@ -1,3 +1,14 @@
+# Token Vesting Wallet Demo
+This project demonstrates how a vesting wallet smart contract works using Bunzz smart contract template — designed to lock tokens and release them over time according to a vesting schedule.
+
+# Demo Screenshot
+
+![image](https://github.com/user-attachments/assets/5ebbe6c7-7595-4781-b9fb-57da367f9033)
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
